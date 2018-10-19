@@ -1,0 +1,7 @@
+D:\Development\School\StringAdvanced\bin\Debug\StringAdvanced.exe.config
+D:\Development\School\StringAdvanced\bin\Debug\StringAdvanced.exe
+D:\Development\School\StringAdvanced\bin\Debug\StringAdvanced.pdb
+D:\Development\School\StringAdvanced\obj\Debug\StringAdvanced.csproj.CoreCompileInputs.cache
+D:\Development\School\StringAdvanced\obj\Debug\StringAdvanced.exe
+D:\Development\School\StringAdvanced\obj\Debug\StringAdvanced.pdb
+D:\Development\School\StringAdvanced\obj\Debug\StringAdvanced.csprojResolveAssemblyReference.cache

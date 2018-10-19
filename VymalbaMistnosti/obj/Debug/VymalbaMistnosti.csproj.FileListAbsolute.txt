@@ -1,0 +1,7 @@
+D:\Development\School\VymalbaMistnosti\bin\Debug\VymalbaMistnosti.exe.config
+D:\Development\School\VymalbaMistnosti\bin\Debug\VymalbaMistnosti.exe
+D:\Development\School\VymalbaMistnosti\bin\Debug\VymalbaMistnosti.pdb
+D:\Development\School\VymalbaMistnosti\obj\Debug\VymalbaMistnosti.csproj.CoreCompileInputs.cache
+D:\Development\School\VymalbaMistnosti\obj\Debug\VymalbaMistnosti.exe
+D:\Development\School\VymalbaMistnosti\obj\Debug\VymalbaMistnosti.pdb
+D:\Development\School\VymalbaMistnosti\obj\Debug\VymalbaMistnosti.csprojResolveAssemblyReference.cache

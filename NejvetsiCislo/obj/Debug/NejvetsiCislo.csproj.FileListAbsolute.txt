@@ -1,0 +1,6 @@
+D:\Development\School\NejvetsiCislo\bin\Debug\NejvetsiCislo.exe.config
+D:\Development\School\NejvetsiCislo\bin\Debug\NejvetsiCislo.exe
+D:\Development\School\NejvetsiCislo\bin\Debug\NejvetsiCislo.pdb
+D:\Development\School\NejvetsiCislo\obj\Debug\NejvetsiCislo.csproj.CoreCompileInputs.cache
+D:\Development\School\NejvetsiCislo\obj\Debug\NejvetsiCislo.exe
+D:\Development\School\NejvetsiCislo\obj\Debug\NejvetsiCislo.pdb

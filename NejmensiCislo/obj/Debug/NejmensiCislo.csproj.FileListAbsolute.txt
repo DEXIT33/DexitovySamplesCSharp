@@ -1,0 +1,6 @@
+D:\Development\School\NejmensiCislo\bin\Debug\NejmensiCislo.exe.config
+D:\Development\School\NejmensiCislo\bin\Debug\NejmensiCislo.exe
+D:\Development\School\NejmensiCislo\bin\Debug\NejmensiCislo.pdb
+D:\Development\School\NejmensiCislo\obj\Debug\NejmensiCislo.csproj.CoreCompileInputs.cache
+D:\Development\School\NejmensiCislo\obj\Debug\NejmensiCislo.exe
+D:\Development\School\NejmensiCislo\obj\Debug\NejmensiCislo.pdb

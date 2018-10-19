@@ -1,0 +1,6 @@
+D:\Development\School\Resistor\bin\Debug\Resistor.exe.config
+D:\Development\School\Resistor\bin\Debug\Resistor.exe
+D:\Development\School\Resistor\bin\Debug\Resistor.pdb
+D:\Development\School\Resistor\obj\Debug\Resistor.csproj.CoreCompileInputs.cache
+D:\Development\School\Resistor\obj\Debug\Resistor.exe
+D:\Development\School\Resistor\obj\Debug\Resistor.pdb

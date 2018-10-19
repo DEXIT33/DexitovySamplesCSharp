@@ -1,0 +1,7 @@
+D:\Projects\School\ZapisCteniSouboru\bin\Debug\ZapisCteniSouboru.exe.config
+D:\Projects\School\ZapisCteniSouboru\bin\Debug\ZapisCteniSouboru.exe
+D:\Projects\School\ZapisCteniSouboru\bin\Debug\ZapisCteniSouboru.pdb
+D:\Projects\School\ZapisCteniSouboru\obj\Debug\ZapisCteniSouboru.csprojResolveAssemblyReference.cache
+D:\Projects\School\ZapisCteniSouboru\obj\Debug\ZapisCteniSouboru.csproj.CoreCompileInputs.cache
+D:\Projects\School\ZapisCteniSouboru\obj\Debug\ZapisCteniSouboru.exe
+D:\Projects\School\ZapisCteniSouboru\obj\Debug\ZapisCteniSouboru.pdb

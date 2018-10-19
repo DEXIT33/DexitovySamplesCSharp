@@ -1,0 +1,7 @@
+D:\Development\School\VypisCisel\bin\Debug\VypisCisel.exe.config
+D:\Development\School\VypisCisel\bin\Debug\VypisCisel.exe
+D:\Development\School\VypisCisel\bin\Debug\VypisCisel.pdb
+D:\Development\School\VypisCisel\obj\Debug\VypisCisel.csprojResolveAssemblyReference.cache
+D:\Development\School\VypisCisel\obj\Debug\VypisCisel.csproj.CoreCompileInputs.cache
+D:\Development\School\VypisCisel\obj\Debug\VypisCisel.exe
+D:\Development\School\VypisCisel\obj\Debug\VypisCisel.pdb

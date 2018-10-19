@@ -1,0 +1,7 @@
+D:\Projects\School\MetodyHahahaha\bin\Debug\MetodyHahahaha.exe.config
+D:\Projects\School\MetodyHahahaha\bin\Debug\MetodyHahahaha.exe
+D:\Projects\School\MetodyHahahaha\bin\Debug\MetodyHahahaha.pdb
+D:\Projects\School\MetodyHahahaha\obj\Debug\MetodyHahahaha.csprojResolveAssemblyReference.cache
+D:\Projects\School\MetodyHahahaha\obj\Debug\MetodyHahahaha.csproj.CoreCompileInputs.cache
+D:\Projects\School\MetodyHahahaha\obj\Debug\MetodyHahahaha.exe
+D:\Projects\School\MetodyHahahaha\obj\Debug\MetodyHahahaha.pdb

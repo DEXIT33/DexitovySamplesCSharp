@@ -1,0 +1,7 @@
+D:\Development\School\Přestupný rok\bin\Debug\Přestupný rok.exe.config
+D:\Development\School\Přestupný rok\bin\Debug\Přestupný rok.exe
+D:\Development\School\Přestupný rok\bin\Debug\Přestupný rok.pdb
+D:\Development\School\Přestupný rok\obj\Debug\PrestupnyRok.csproj.CoreCompileInputs.cache
+D:\Development\School\Přestupný rok\obj\Debug\Přestupný rok.exe
+D:\Development\School\Přestupný rok\obj\Debug\Přestupný rok.pdb
+D:\Development\School\Přestupný rok\obj\Debug\PrestupnyRok.csprojResolveAssemblyReference.cache

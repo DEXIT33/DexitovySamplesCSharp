@@ -1,0 +1,22 @@
+﻿<Window x:Class="Slovnik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Slovnik"
+        mc:Ignorable="d"
+        Title="Slovnik" Height="215.941" Width="306.59" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272" TextChanged="TextBox_TextChanged"/>
+        <Button Name="englishCzechButton" Content="Anglicko - Český" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="130" Click="Button_Click" Background="Lime"/>
+        <Button Name="czechEnglishButton" Content="Česko - Anglický" HorizontalAlignment="Left" Margin="152,10,0,0" VerticalAlignment="Top" Width="130" Click="Button_Click_1" Background="Red"/>
+        <Label Content="Result:&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top" Width="50" Height="27"/>
+        <Label Name="resultLabel" HorizontalAlignment="Left" Margin="65,63,0,0" VerticalAlignment="Top" Width="217" Height="27"/>
+        <Button Name="addWordButton" Content="Přidat slovo" HorizontalAlignment="Left" Margin="10,155,0,0" VerticalAlignment="Top" Width="272" Click="addWordButton_Click"/>
+        <TextBox x:Name="englishInput" HorizontalAlignment="Left" Height="23" Margin="10,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="czechInput" HorizontalAlignment="Left" Height="23" Margin="152,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Anglicky:" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Width="130" Height="27"/>
+        <Label Content="Česky:" HorizontalAlignment="Left" Margin="152,95,0,0" VerticalAlignment="Top" Width="130" Height="27"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+D:\Development\School\Soucastky\bin\Debug\Soucastky.exe.config
+D:\Development\School\Soucastky\bin\Debug\Soucastky.exe
+D:\Development\School\Soucastky\bin\Debug\Soucastky.pdb
+D:\Development\School\Soucastky\obj\Debug\Soucastky.csproj.CoreCompileInputs.cache
+D:\Development\School\Soucastky\obj\Debug\Soucastky.exe
+D:\Development\School\Soucastky\obj\Debug\Soucastky.pdb
+D:\Development\School\Soucastky\obj\Debug\Soucastky.csprojResolveAssemblyReference.cache
+D:\Projects\School\Soucastky\bin\Debug\Soucastky.exe.config
+D:\Projects\School\Soucastky\bin\Debug\Soucastky.exe
+D:\Projects\School\Soucastky\bin\Debug\Soucastky.pdb
+D:\Projects\School\Soucastky\obj\Debug\Soucastky.csprojAssemblyReference.cache
+D:\Projects\School\Soucastky\obj\Debug\Soucastky.csproj.CoreCompileInputs.cache
+D:\Projects\School\Soucastky\obj\Debug\Soucastky.exe
+D:\Projects\School\Soucastky\obj\Debug\Soucastky.pdb

@@ -1,0 +1,7 @@
+D:\Development\School\Piramida\bin\Debug\Piramida.exe.config
+D:\Development\School\Piramida\bin\Debug\Piramida.exe
+D:\Development\School\Piramida\bin\Debug\Piramida.pdb
+D:\Development\School\Piramida\obj\Debug\Pyramida.csprojResolveAssemblyReference.cache
+D:\Development\School\Piramida\obj\Debug\Pyramida.csproj.CoreCompileInputs.cache
+D:\Development\School\Piramida\obj\Debug\Piramida.exe
+D:\Development\School\Piramida\obj\Debug\Piramida.pdb

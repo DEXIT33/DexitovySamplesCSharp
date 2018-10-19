@@ -1,0 +1,7 @@
+D:\Projects\School\Rekurze\obj\Debug\Rekurze.csproj.CoreCompileInputs.cache
+D:\Projects\School\Rekurze\bin\Debug\Rekurze.exe.config
+D:\Projects\School\Rekurze\bin\Debug\Rekurze.exe
+D:\Projects\School\Rekurze\bin\Debug\Rekurze.pdb
+D:\Projects\School\Rekurze\obj\Debug\Rekurze.exe
+D:\Projects\School\Rekurze\obj\Debug\Rekurze.pdb
+D:\Projects\School\Rekurze\obj\Debug\Rekurze.csprojAssemblyReference.cache

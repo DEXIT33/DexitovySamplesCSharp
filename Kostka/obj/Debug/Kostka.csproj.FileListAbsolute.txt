@@ -1,0 +1,7 @@
+D:\Development\School\Kostka\bin\Debug\Kostka.exe.config
+D:\Development\School\Kostka\bin\Debug\Kostka.exe
+D:\Development\School\Kostka\bin\Debug\Kostka.pdb
+D:\Development\School\Kostka\obj\Debug\Kostka.csproj.CoreCompileInputs.cache
+D:\Development\School\Kostka\obj\Debug\Kostka.exe
+D:\Development\School\Kostka\obj\Debug\Kostka.pdb
+D:\Development\School\Kostka\obj\Debug\Kostka.csprojResolveAssemblyReference.cache

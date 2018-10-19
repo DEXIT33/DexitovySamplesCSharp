@@ -1,0 +1,7 @@
+D:\Development\School\Mesice\bin\Debug\Mesice.exe.config
+D:\Development\School\Mesice\bin\Debug\Mesice.exe
+D:\Development\School\Mesice\bin\Debug\Mesice.pdb
+D:\Development\School\Mesice\obj\Debug\Mesice.csproj.CoreCompileInputs.cache
+D:\Development\School\Mesice\obj\Debug\Mesice.exe
+D:\Development\School\Mesice\obj\Debug\Mesice.pdb
+D:\Development\School\Mesice\obj\Debug\Mesice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Development\School\CaesarovaSifra\bin\Debug\CaesarovaSifra.exe.config
+D:\Development\School\CaesarovaSifra\bin\Debug\CaesarovaSifra.exe
+D:\Development\School\CaesarovaSifra\bin\Debug\CaesarovaSifra.pdb
+D:\Development\School\CaesarovaSifra\obj\Debug\CaesarovaSifra.csprojResolveAssemblyReference.cache
+D:\Development\School\CaesarovaSifra\obj\Debug\CaesarovaSifra.csproj.CoreCompileInputs.cache
+D:\Development\School\CaesarovaSifra\obj\Debug\CaesarovaSifra.exe
+D:\Development\School\CaesarovaSifra\obj\Debug\CaesarovaSifra.pdb

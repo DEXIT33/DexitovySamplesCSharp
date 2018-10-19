@@ -1,0 +1,6 @@
+D:\Projects\School\KruzniceHuhu\bin\Debug\KruzniceHuhu.exe.config
+D:\Projects\School\KruzniceHuhu\bin\Debug\KruzniceHuhu.exe
+D:\Projects\School\KruzniceHuhu\bin\Debug\KruzniceHuhu.pdb
+D:\Projects\School\KruzniceHuhu\obj\Debug\KruzniceHuhu.csproj.CoreCompileInputs.cache
+D:\Projects\School\KruzniceHuhu\obj\Debug\KruzniceHuhu.exe
+D:\Projects\School\KruzniceHuhu\obj\Debug\KruzniceHuhu.pdb

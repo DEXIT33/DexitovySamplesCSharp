@@ -1,0 +1,7 @@
+D:\Projects\School\RozdilDatumu\bin\Debug\RozdilDatumu.exe.config
+D:\Projects\School\RozdilDatumu\bin\Debug\RozdilDatumu.exe
+D:\Projects\School\RozdilDatumu\bin\Debug\RozdilDatumu.pdb
+D:\Projects\School\RozdilDatumu\obj\Debug\RozdilDatumu.csproj.CoreCompileInputs.cache
+D:\Projects\School\RozdilDatumu\obj\Debug\RozdilDatumu.exe
+D:\Projects\School\RozdilDatumu\obj\Debug\RozdilDatumu.pdb
+D:\Projects\School\RozdilDatumu\obj\Debug\RozdilDatumu.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Projects\School\WTFPole\bin\Debug\WTFPole.exe.config
+D:\Projects\School\WTFPole\bin\Debug\WTFPole.exe
+D:\Projects\School\WTFPole\bin\Debug\WTFPole.pdb
+D:\Projects\School\WTFPole\obj\Debug\WTFPole.csprojResolveAssemblyReference.cache
+D:\Projects\School\WTFPole\obj\Debug\WTFPole.csproj.CoreCompileInputs.cache
+D:\Projects\School\WTFPole\obj\Debug\WTFPole.exe
+D:\Projects\School\WTFPole\obj\Debug\WTFPole.pdb

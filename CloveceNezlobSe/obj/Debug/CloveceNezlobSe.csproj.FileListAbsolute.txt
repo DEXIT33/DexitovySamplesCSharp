@@ -1,0 +1,7 @@
+D:\Projects\School\CloveceNezlobSe\bin\Debug\CloveceNezlobSe.exe.config
+D:\Projects\School\CloveceNezlobSe\bin\Debug\CloveceNezlobSe.exe
+D:\Projects\School\CloveceNezlobSe\bin\Debug\CloveceNezlobSe.pdb
+D:\Projects\School\CloveceNezlobSe\obj\Debug\CloveceNezlobSe.csproj.CoreCompileInputs.cache
+D:\Projects\School\CloveceNezlobSe\obj\Debug\CloveceNezlobSe.exe
+D:\Projects\School\CloveceNezlobSe\obj\Debug\CloveceNezlobSe.pdb
+D:\Projects\School\CloveceNezlobSe\obj\Debug\CloveceNezlobSe.csprojResolveAssemblyReference.cache

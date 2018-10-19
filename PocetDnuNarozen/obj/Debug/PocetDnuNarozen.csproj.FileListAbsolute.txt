@@ -1,0 +1,14 @@
+D:\Development\School\PocetDnuNarozen\bin\Debug\PocetDnuNarozen.exe.config
+D:\Development\School\PocetDnuNarozen\bin\Debug\PocetDnuNarozen.exe
+D:\Development\School\PocetDnuNarozen\bin\Debug\PocetDnuNarozen.pdb
+D:\Development\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.csproj.CoreCompileInputs.cache
+D:\Development\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.exe
+D:\Development\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.pdb
+D:\Development\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.csprojResolveAssemblyReference.cache
+D:\Projects\School\PocetDnuNarozen\bin\Debug\PocetDnuNarozen.exe.config
+D:\Projects\School\PocetDnuNarozen\bin\Debug\PocetDnuNarozen.exe
+D:\Projects\School\PocetDnuNarozen\bin\Debug\PocetDnuNarozen.pdb
+D:\Projects\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.csprojResolveAssemblyReference.cache
+D:\Projects\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.csproj.CoreCompileInputs.cache
+D:\Projects\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.exe
+D:\Projects\School\PocetDnuNarozen\obj\Debug\PocetDnuNarozen.pdb

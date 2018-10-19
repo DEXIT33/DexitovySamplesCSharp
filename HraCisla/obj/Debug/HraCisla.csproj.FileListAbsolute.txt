@@ -1,0 +1,7 @@
+D:\Projects\School\HraCisla\bin\Debug\HraCisla.exe.config
+D:\Projects\School\HraCisla\bin\Debug\HraCisla.exe
+D:\Projects\School\HraCisla\bin\Debug\HraCisla.pdb
+D:\Projects\School\HraCisla\obj\Debug\HraCisla.csprojResolveAssemblyReference.cache
+D:\Projects\School\HraCisla\obj\Debug\HraCisla.csproj.CoreCompileInputs.cache
+D:\Projects\School\HraCisla\obj\Debug\HraCisla.exe
+D:\Projects\School\HraCisla\obj\Debug\HraCisla.pdb

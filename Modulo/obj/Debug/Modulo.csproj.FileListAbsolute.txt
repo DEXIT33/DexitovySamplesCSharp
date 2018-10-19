@@ -1,0 +1,6 @@
+D:\Development\School\Modulo\bin\Debug\Modulo.exe.config
+D:\Development\School\Modulo\bin\Debug\Modulo.exe
+D:\Development\School\Modulo\bin\Debug\Modulo.pdb
+D:\Development\School\Modulo\obj\Debug\Modulo.csproj.CoreCompileInputs.cache
+D:\Development\School\Modulo\obj\Debug\Modulo.exe
+D:\Development\School\Modulo\obj\Debug\Modulo.pdb

@@ -1,0 +1,7 @@
+D:\Development\School\Conditions\bin\Debug\Conditions.exe.config
+D:\Development\School\Conditions\bin\Debug\Conditions.exe
+D:\Development\School\Conditions\bin\Debug\Conditions.pdb
+D:\Development\School\Conditions\obj\Debug\Conditions.csprojResolveAssemblyReference.cache
+D:\Development\School\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+D:\Development\School\Conditions\obj\Debug\Conditions.exe
+D:\Development\School\Conditions\obj\Debug\Conditions.pdb

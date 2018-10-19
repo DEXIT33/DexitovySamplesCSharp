@@ -1,0 +1,7 @@
+D:\Development\School\Christmas\bin\Debug\Christmas.exe.config
+D:\Development\School\Christmas\bin\Debug\Christmas.exe
+D:\Development\School\Christmas\bin\Debug\Christmas.pdb
+D:\Development\School\Christmas\obj\Debug\Christmas.csproj.CoreCompileInputs.cache
+D:\Development\School\Christmas\obj\Debug\Christmas.exe
+D:\Development\School\Christmas\obj\Debug\Christmas.pdb
+D:\Development\School\Christmas\obj\Debug\Christmas.csprojResolveAssemblyReference.cache

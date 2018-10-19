@@ -1,0 +1,6 @@
+D:\Projects\School\ObjektyZnovuXD\bin\Debug\ObjektyZnovuXD.exe
+D:\Projects\School\ObjektyZnovuXD\bin\Debug\ObjektyZnovuXD.pdb
+D:\Projects\School\ObjektyZnovuXD\obj\Debug\ObjektyZnovuXD.csprojAssemblyReference.cache
+D:\Projects\School\ObjektyZnovuXD\obj\Debug\ObjektyZnovuXD.csproj.CoreCompileInputs.cache
+D:\Projects\School\ObjektyZnovuXD\obj\Debug\ObjektyZnovuXD.exe
+D:\Projects\School\ObjektyZnovuXD\obj\Debug\ObjektyZnovuXD.pdb

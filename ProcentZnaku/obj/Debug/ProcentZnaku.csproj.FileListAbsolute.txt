@@ -1,0 +1,7 @@
+D:\Development\School\ProcentZnaku\bin\Debug\ProcentZnaku.exe.config
+D:\Development\School\ProcentZnaku\bin\Debug\ProcentZnaku.exe
+D:\Development\School\ProcentZnaku\bin\Debug\ProcentZnaku.pdb
+D:\Development\School\ProcentZnaku\obj\Debug\ProcentZnaku.csprojResolveAssemblyReference.cache
+D:\Development\School\ProcentZnaku\obj\Debug\ProcentZnaku.csproj.CoreCompileInputs.cache
+D:\Development\School\ProcentZnaku\obj\Debug\ProcentZnaku.exe
+D:\Development\School\ProcentZnaku\obj\Debug\ProcentZnaku.pdb

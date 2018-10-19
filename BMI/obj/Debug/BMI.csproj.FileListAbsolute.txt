@@ -1,0 +1,7 @@
+D:\Development\School\BMI\bin\Debug\BMI.exe.config
+D:\Development\School\BMI\bin\Debug\BMI.exe
+D:\Development\School\BMI\bin\Debug\BMI.pdb
+D:\Development\School\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+D:\Development\School\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\Development\School\BMI\obj\Debug\BMI.exe
+D:\Development\School\BMI\obj\Debug\BMI.pdb

@@ -1,0 +1,6 @@
+D:\Development\School\Bool\bin\Debug\Bool.exe.config
+D:\Development\School\Bool\bin\Debug\Bool.exe
+D:\Development\School\Bool\bin\Debug\Bool.pdb
+D:\Development\School\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+D:\Development\School\Bool\obj\Debug\Bool.exe
+D:\Development\School\Bool\obj\Debug\Bool.pdb

@@ -1,0 +1,6 @@
+D:\Development\School\Beep\bin\Debug\Beep.exe.config
+D:\Development\School\Beep\bin\Debug\Beep.exe
+D:\Development\School\Beep\bin\Debug\Beep.pdb
+D:\Development\School\Beep\obj\Debug\Beep.csproj.CoreCompileInputs.cache
+D:\Development\School\Beep\obj\Debug\Beep.exe
+D:\Development\School\Beep\obj\Debug\Beep.pdb

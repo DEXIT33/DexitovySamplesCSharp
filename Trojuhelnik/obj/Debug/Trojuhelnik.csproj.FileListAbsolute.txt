@@ -1,0 +1,6 @@
+D:\Development\School\Trojuhelnik\bin\Debug\Trojuhelnik.exe.config
+D:\Development\School\Trojuhelnik\bin\Debug\Trojuhelnik.exe
+D:\Development\School\Trojuhelnik\bin\Debug\Trojuhelnik.pdb
+D:\Development\School\Trojuhelnik\obj\Debug\Trojuhelnik.csproj.CoreCompileInputs.cache
+D:\Development\School\Trojuhelnik\obj\Debug\Trojuhelnik.exe
+D:\Development\School\Trojuhelnik\obj\Debug\Trojuhelnik.pdb

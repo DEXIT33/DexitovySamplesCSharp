@@ -1,0 +1,6 @@
+D:\Development\School\PocetPrestupnychRoku\bin\Debug\PocetPrestupnychRoku.exe.config
+D:\Development\School\PocetPrestupnychRoku\bin\Debug\PocetPrestupnychRoku.exe
+D:\Development\School\PocetPrestupnychRoku\bin\Debug\PocetPrestupnychRoku.pdb
+D:\Development\School\PocetPrestupnychRoku\obj\Debug\PocetPrestupnychRoku.csproj.CoreCompileInputs.cache
+D:\Development\School\PocetPrestupnychRoku\obj\Debug\PocetPrestupnychRoku.exe
+D:\Development\School\PocetPrestupnychRoku\obj\Debug\PocetPrestupnychRoku.pdb

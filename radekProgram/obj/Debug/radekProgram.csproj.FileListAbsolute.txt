@@ -1,0 +1,7 @@
+D:\Projects\School\radekProgram\bin\Debug\radekProgram.exe.config
+D:\Projects\School\radekProgram\bin\Debug\radekProgram.exe
+D:\Projects\School\radekProgram\bin\Debug\radekProgram.pdb
+D:\Projects\School\radekProgram\obj\Debug\radekProgram.csprojResolveAssemblyReference.cache
+D:\Projects\School\radekProgram\obj\Debug\radekProgram.csproj.CoreCompileInputs.cache
+D:\Projects\School\radekProgram\obj\Debug\radekProgram.exe
+D:\Projects\School\radekProgram\obj\Debug\radekProgram.pdb

@@ -1,0 +1,6 @@
+D:\Development\School\PocetDelitelnychCisel\bin\Debug\PocetDelitelnychCisel.exe.config
+D:\Development\School\PocetDelitelnychCisel\bin\Debug\PocetDelitelnychCisel.exe
+D:\Development\School\PocetDelitelnychCisel\bin\Debug\PocetDelitelnychCisel.pdb
+D:\Development\School\PocetDelitelnychCisel\obj\Debug\PocetDelitelnychCisel.csproj.CoreCompileInputs.cache
+D:\Development\School\PocetDelitelnychCisel\obj\Debug\PocetDelitelnychCisel.exe
+D:\Development\School\PocetDelitelnychCisel\obj\Debug\PocetDelitelnychCisel.pdb

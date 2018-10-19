@@ -1,0 +1,6 @@
+D:\Projects\School\ObjektyJej\bin\Debug\ObjektyJej.exe.config
+D:\Projects\School\ObjektyJej\bin\Debug\ObjektyJej.exe
+D:\Projects\School\ObjektyJej\bin\Debug\ObjektyJej.pdb
+D:\Projects\School\ObjektyJej\obj\Debug\ObjektyJej.csproj.CoreCompileInputs.cache
+D:\Projects\School\ObjektyJej\obj\Debug\ObjektyJej.exe
+D:\Projects\School\ObjektyJej\obj\Debug\ObjektyJej.pdb

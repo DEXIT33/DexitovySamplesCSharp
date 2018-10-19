@@ -1,0 +1,7 @@
+D:\Development\School\Zarovka\bin\Debug\Zarovka.exe.config
+D:\Development\School\Zarovka\bin\Debug\Zarovka.exe
+D:\Development\School\Zarovka\bin\Debug\Zarovka.pdb
+D:\Development\School\Zarovka\obj\Debug\Pojistka.csproj.CoreCompileInputs.cache
+D:\Development\School\Zarovka\obj\Debug\Zarovka.exe
+D:\Development\School\Zarovka\obj\Debug\Zarovka.pdb
+D:\Development\School\Zarovka\obj\Debug\Pojistka.csprojResolveAssemblyReference.cache

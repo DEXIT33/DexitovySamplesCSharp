@@ -1,0 +1,7 @@
+D:\Development\School\HighestNumber\bin\Debug\HighestNumber.exe.config
+D:\Development\School\HighestNumber\bin\Debug\HighestNumber.exe
+D:\Development\School\HighestNumber\bin\Debug\HighestNumber.pdb
+D:\Development\School\HighestNumber\obj\Debug\HighestNumber.csprojResolveAssemblyReference.cache
+D:\Development\School\HighestNumber\obj\Debug\HighestNumber.csproj.CoreCompileInputs.cache
+D:\Development\School\HighestNumber\obj\Debug\HighestNumber.exe
+D:\Development\School\HighestNumber\obj\Debug\HighestNumber.pdb

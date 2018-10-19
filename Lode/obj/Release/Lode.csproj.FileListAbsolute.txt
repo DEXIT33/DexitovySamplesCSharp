@@ -1,0 +1,13 @@
+D:\Development\School\Lode\bin\Release\Lode.exe.config
+D:\Development\School\Lode\bin\Release\Lode.exe
+D:\Development\School\Lode\bin\Release\Lode.pdb
+D:\Development\School\Lode\obj\Release\Lode.csproj.CoreCompileInputs.cache
+D:\Development\School\Lode\obj\Release\Lode.exe
+D:\Development\School\Lode\obj\Release\Lode.pdb
+D:\Projects\School\Lode\bin\Release\Lode.exe.config
+D:\Projects\School\Lode\bin\Release\Lode.exe
+D:\Projects\School\Lode\bin\Release\Lode.pdb
+D:\Projects\School\Lode\obj\Release\Lode.csprojResolveAssemblyReference.cache
+D:\Projects\School\Lode\obj\Release\Lode.csproj.CoreCompileInputs.cache
+D:\Projects\School\Lode\obj\Release\Lode.exe
+D:\Projects\School\Lode\obj\Release\Lode.pdb

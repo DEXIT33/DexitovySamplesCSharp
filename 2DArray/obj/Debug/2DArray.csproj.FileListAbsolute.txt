@@ -1,0 +1,7 @@
+D:\Development\School\2DArray\bin\Debug\2DArray.exe.config
+D:\Development\School\2DArray\bin\Debug\2DArray.exe
+D:\Development\School\2DArray\bin\Debug\2DArray.pdb
+D:\Development\School\2DArray\obj\Debug\2DArray.csprojResolveAssemblyReference.cache
+D:\Development\School\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+D:\Development\School\2DArray\obj\Debug\2DArray.exe
+D:\Development\School\2DArray\obj\Debug\2DArray.pdb

@@ -1,0 +1,7 @@
+D:\Development\School\ObjemACenaBazenu\bin\Debug\ObjemACenaBazenu.exe.config
+D:\Development\School\ObjemACenaBazenu\bin\Debug\ObjemACenaBazenu.exe
+D:\Development\School\ObjemACenaBazenu\bin\Debug\ObjemACenaBazenu.pdb
+D:\Development\School\ObjemACenaBazenu\obj\Debug\ObjemACenaBazenu.csprojResolveAssemblyReference.cache
+D:\Development\School\ObjemACenaBazenu\obj\Debug\ObjemACenaBazenu.csproj.CoreCompileInputs.cache
+D:\Development\School\ObjemACenaBazenu\obj\Debug\ObjemACenaBazenu.exe
+D:\Development\School\ObjemACenaBazenu\obj\Debug\ObjemACenaBazenu.pdb

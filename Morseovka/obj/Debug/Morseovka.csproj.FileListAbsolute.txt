@@ -1,0 +1,7 @@
+D:\Development\School\Morseovka\bin\Debug\Morseovka.exe.config
+D:\Development\School\Morseovka\bin\Debug\Morseovka.exe
+D:\Development\School\Morseovka\bin\Debug\Morseovka.pdb
+D:\Development\School\Morseovka\obj\Debug\Morseovka.csprojResolveAssemblyReference.cache
+D:\Development\School\Morseovka\obj\Debug\Morseovka.csproj.CoreCompileInputs.cache
+D:\Development\School\Morseovka\obj\Debug\Morseovka.exe
+D:\Development\School\Morseovka\obj\Debug\Morseovka.pdb

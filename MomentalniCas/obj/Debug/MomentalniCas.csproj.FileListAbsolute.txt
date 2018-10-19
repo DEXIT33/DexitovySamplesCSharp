@@ -1,0 +1,7 @@
+D:\Projects\School\MomentalniCas\bin\Debug\MomentalniCas.exe.config
+D:\Projects\School\MomentalniCas\bin\Debug\MomentalniCas.exe
+D:\Projects\School\MomentalniCas\bin\Debug\MomentalniCas.pdb
+D:\Projects\School\MomentalniCas\obj\Debug\MomentalniCas.csprojResolveAssemblyReference.cache
+D:\Projects\School\MomentalniCas\obj\Debug\MomentalniCas.csproj.CoreCompileInputs.cache
+D:\Projects\School\MomentalniCas\obj\Debug\MomentalniCas.exe
+D:\Projects\School\MomentalniCas\obj\Debug\MomentalniCas.pdb

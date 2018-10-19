@@ -1,0 +1,6 @@
+D:\Development\School\String\bin\Debug\String.exe.config
+D:\Development\School\String\bin\Debug\String.exe
+D:\Development\School\String\bin\Debug\String.pdb
+D:\Development\School\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\Development\School\String\obj\Debug\String.exe
+D:\Development\School\String\obj\Debug\String.pdb

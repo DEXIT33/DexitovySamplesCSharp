@@ -1,0 +1,6 @@
+D:\Development\School\PoleOpak\bin\Debug\PoleOpak.exe.config
+D:\Development\School\PoleOpak\bin\Debug\PoleOpak.exe
+D:\Development\School\PoleOpak\bin\Debug\PoleOpak.pdb
+D:\Development\School\PoleOpak\obj\Debug\PoleOpak.csproj.CoreCompileInputs.cache
+D:\Development\School\PoleOpak\obj\Debug\PoleOpak.exe
+D:\Development\School\PoleOpak\obj\Debug\PoleOpak.pdb

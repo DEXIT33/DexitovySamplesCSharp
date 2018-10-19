@@ -1,0 +1,7 @@
+D:\Development\School\PrejOpacko\bin\Debug\PrejOpacko.exe.config
+D:\Development\School\PrejOpacko\bin\Debug\PrejOpacko.exe
+D:\Development\School\PrejOpacko\bin\Debug\PrejOpacko.pdb
+D:\Development\School\PrejOpacko\obj\Debug\PrejOpacko.csprojResolveAssemblyReference.cache
+D:\Development\School\PrejOpacko\obj\Debug\PrejOpacko.csproj.CoreCompileInputs.cache
+D:\Development\School\PrejOpacko\obj\Debug\PrejOpacko.exe
+D:\Development\School\PrejOpacko\obj\Debug\PrejOpacko.pdb

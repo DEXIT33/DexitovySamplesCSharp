@@ -1,0 +1,7 @@
+D:\Development\School\Arrays\bin\Debug\Arrays.exe.config
+D:\Development\School\Arrays\bin\Debug\Arrays.exe
+D:\Development\School\Arrays\bin\Debug\Arrays.pdb
+D:\Development\School\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+D:\Development\School\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Development\School\Arrays\obj\Debug\Arrays.exe
+D:\Development\School\Arrays\obj\Debug\Arrays.pdb

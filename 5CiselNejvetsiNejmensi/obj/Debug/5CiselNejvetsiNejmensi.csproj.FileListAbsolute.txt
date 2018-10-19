@@ -1,0 +1,6 @@
+D:\Development\School\5CiselNejvetsiNejmensi\bin\Debug\5CiselNejvetsiNejmensi.exe.config
+D:\Development\School\5CiselNejvetsiNejmensi\bin\Debug\5CiselNejvetsiNejmensi.exe
+D:\Development\School\5CiselNejvetsiNejmensi\bin\Debug\5CiselNejvetsiNejmensi.pdb
+D:\Development\School\5CiselNejvetsiNejmensi\obj\Debug\5CiselNejvetsiNejmensi.csproj.CoreCompileInputs.cache
+D:\Development\School\5CiselNejvetsiNejmensi\obj\Debug\5CiselNejvetsiNejmensi.exe
+D:\Development\School\5CiselNejvetsiNejmensi\obj\Debug\5CiselNejvetsiNejmensi.pdb

@@ -1,0 +1,6 @@
+D:\Development\School\PrumernyPocetZnakuVeVete\bin\Debug\PrumernyPocetZnakuVeVete.exe.config
+D:\Development\School\PrumernyPocetZnakuVeVete\bin\Debug\PrumernyPocetZnakuVeVete.exe
+D:\Development\School\PrumernyPocetZnakuVeVete\bin\Debug\PrumernyPocetZnakuVeVete.pdb
+D:\Development\School\PrumernyPocetZnakuVeVete\obj\Debug\PrumernyPocetZnakuVeVete.csproj.CoreCompileInputs.cache
+D:\Development\School\PrumernyPocetZnakuVeVete\obj\Debug\PrumernyPocetZnakuVeVete.exe
+D:\Development\School\PrumernyPocetZnakuVeVete\obj\Debug\PrumernyPocetZnakuVeVete.pdb

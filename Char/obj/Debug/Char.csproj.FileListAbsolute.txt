@@ -1,0 +1,7 @@
+D:\Development\School\Char\bin\Debug\Char.exe.config
+D:\Development\School\Char\bin\Debug\Char.exe
+D:\Development\School\Char\bin\Debug\Char.pdb
+D:\Development\School\Char\obj\Debug\Char.csprojResolveAssemblyReference.cache
+D:\Development\School\Char\obj\Debug\Char.csproj.CoreCompileInputs.cache
+D:\Development\School\Char\obj\Debug\Char.exe
+D:\Development\School\Char\obj\Debug\Char.pdb

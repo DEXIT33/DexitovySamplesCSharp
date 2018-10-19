@@ -1,0 +1,15 @@
+D:\Projects\School\Slovnik\bin\Debug\Slovnik.exe.config
+D:\Projects\School\Slovnik\bin\Debug\Slovnik.exe
+D:\Projects\School\Slovnik\bin\Debug\Slovnik.pdb
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.csprojResolveAssemblyReference.cache
+D:\Projects\School\Slovnik\obj\Debug\MainWindow.g.cs
+D:\Projects\School\Slovnik\obj\Debug\App.g.cs
+D:\Projects\School\Slovnik\obj\Debug\Slovnik_MarkupCompile.cache
+D:\Projects\School\Slovnik\obj\Debug\Slovnik_MarkupCompile.lref
+D:\Projects\School\Slovnik\obj\Debug\MainWindow.baml
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.g.resources
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.Properties.Resources.resources
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.csproj.GenerateResource.cache
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.csproj.CoreCompileInputs.cache
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.exe
+D:\Projects\School\Slovnik\obj\Debug\Slovnik.pdb

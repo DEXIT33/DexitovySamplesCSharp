@@ -1,0 +1,7 @@
+D:\Development\School\StringOpak\bin\Debug\StringOpak.exe.config
+D:\Development\School\StringOpak\bin\Debug\StringOpak.exe
+D:\Development\School\StringOpak\bin\Debug\StringOpak.pdb
+D:\Development\School\StringOpak\obj\Debug\StringOpak.csproj.CoreCompileInputs.cache
+D:\Development\School\StringOpak\obj\Debug\StringOpak.exe
+D:\Development\School\StringOpak\obj\Debug\StringOpak.pdb
+D:\Development\School\StringOpak\obj\Debug\StringOpak.csprojResolveAssemblyReference.cache

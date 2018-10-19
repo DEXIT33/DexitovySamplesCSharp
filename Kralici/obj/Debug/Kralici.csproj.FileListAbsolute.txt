@@ -1,0 +1,7 @@
+D:\Projects\School\Kralici\bin\Debug\Kralici.exe.config
+D:\Projects\School\Kralici\bin\Debug\Kralici.exe
+D:\Projects\School\Kralici\bin\Debug\Kralici.pdb
+D:\Projects\School\Kralici\obj\Debug\Kralici.csproj.CoreCompileInputs.cache
+D:\Projects\School\Kralici\obj\Debug\Kralici.exe
+D:\Projects\School\Kralici\obj\Debug\Kralici.pdb
+D:\Projects\School\Kralici\obj\Debug\Kralici.csprojResolveAssemblyReference.cache

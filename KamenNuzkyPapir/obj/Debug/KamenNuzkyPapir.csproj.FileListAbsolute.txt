@@ -1,0 +1,7 @@
+D:\Development\School\KamenNuzkyPapir\bin\Debug\KamenNuzkyPapir.exe.config
+D:\Development\School\KamenNuzkyPapir\bin\Debug\KamenNuzkyPapir.exe
+D:\Development\School\KamenNuzkyPapir\bin\Debug\KamenNuzkyPapir.pdb
+D:\Development\School\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.csproj.CoreCompileInputs.cache
+D:\Development\School\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.exe
+D:\Development\School\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.pdb
+D:\Development\School\KamenNuzkyPapir\obj\Debug\KamenNuzkyPapir.csprojResolveAssemblyReference.cache

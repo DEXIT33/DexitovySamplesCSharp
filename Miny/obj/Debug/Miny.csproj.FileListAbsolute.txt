@@ -1,0 +1,7 @@
+D:\Projects\School\Miny\bin\Debug\Miny.exe.config
+D:\Projects\School\Miny\bin\Debug\Miny.exe
+D:\Projects\School\Miny\bin\Debug\Miny.pdb
+D:\Projects\School\Miny\obj\Debug\Miny.csproj.CoreCompileInputs.cache
+D:\Projects\School\Miny\obj\Debug\Miny.exe
+D:\Projects\School\Miny\obj\Debug\Miny.pdb
+D:\Projects\School\Miny\obj\Debug\Miny.csprojResolveAssemblyReference.cache

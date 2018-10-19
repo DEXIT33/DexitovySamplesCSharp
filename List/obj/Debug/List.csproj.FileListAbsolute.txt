@@ -1,0 +1,7 @@
+D:\Projects\School\List\bin\Debug\List.exe.config
+D:\Projects\School\List\bin\Debug\List.exe
+D:\Projects\School\List\bin\Debug\List.pdb
+D:\Projects\School\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+D:\Projects\School\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\Projects\School\List\obj\Debug\List.exe
+D:\Projects\School\List\obj\Debug\List.pdb

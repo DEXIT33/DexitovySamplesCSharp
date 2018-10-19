@@ -1,0 +1,14 @@
+D:\Development\School\Lode\bin\Debug\Lode.exe.config
+D:\Development\School\Lode\bin\Debug\Lode.exe
+D:\Development\School\Lode\bin\Debug\Lode.pdb
+D:\Development\School\Lode\obj\Debug\Lode.csprojResolveAssemblyReference.cache
+D:\Development\School\Lode\obj\Debug\Lode.csproj.CoreCompileInputs.cache
+D:\Development\School\Lode\obj\Debug\Lode.exe
+D:\Development\School\Lode\obj\Debug\Lode.pdb
+D:\Projects\School\Lode\bin\Debug\Lode.exe.config
+D:\Projects\School\Lode\bin\Debug\Lode.exe
+D:\Projects\School\Lode\bin\Debug\Lode.pdb
+D:\Projects\School\Lode\obj\Debug\Lode.csprojResolveAssemblyReference.cache
+D:\Projects\School\Lode\obj\Debug\Lode.csproj.CoreCompileInputs.cache
+D:\Projects\School\Lode\obj\Debug\Lode.exe
+D:\Projects\School\Lode\obj\Debug\Lode.pdb

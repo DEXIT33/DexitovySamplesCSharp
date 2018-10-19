@@ -1,0 +1,6 @@
+D:\Development\School\Convert\bin\Debug\Convert.exe.config
+D:\Development\School\Convert\bin\Debug\Convert.exe
+D:\Development\School\Convert\bin\Debug\Convert.pdb
+D:\Development\School\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+D:\Development\School\Convert\obj\Debug\Convert.exe
+D:\Development\School\Convert\obj\Debug\Convert.pdb

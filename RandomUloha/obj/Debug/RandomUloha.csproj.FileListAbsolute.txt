@@ -1,0 +1,7 @@
+D:\Projects\School\RandomUloha\bin\Debug\RandomUloha.exe.config
+D:\Projects\School\RandomUloha\bin\Debug\RandomUloha.exe
+D:\Projects\School\RandomUloha\bin\Debug\RandomUloha.pdb
+D:\Projects\School\RandomUloha\obj\Debug\RandomUloha.csprojResolveAssemblyReference.cache
+D:\Projects\School\RandomUloha\obj\Debug\RandomUloha.csproj.CoreCompileInputs.cache
+D:\Projects\School\RandomUloha\obj\Debug\RandomUloha.exe
+D:\Projects\School\RandomUloha\obj\Debug\RandomUloha.pdb

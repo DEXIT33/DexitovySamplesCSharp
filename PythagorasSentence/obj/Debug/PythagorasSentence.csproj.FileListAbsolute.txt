@@ -1,0 +1,7 @@
+D:\Development\School\PythagorasSentence\bin\Debug\PythagorasSentence.exe.config
+D:\Development\School\PythagorasSentence\bin\Debug\PythagorasSentence.exe
+D:\Development\School\PythagorasSentence\bin\Debug\PythagorasSentence.pdb
+D:\Development\School\PythagorasSentence\obj\Debug\PythagorasSentence.csproj.CoreCompileInputs.cache
+D:\Development\School\PythagorasSentence\obj\Debug\PythagorasSentence.exe
+D:\Development\School\PythagorasSentence\obj\Debug\PythagorasSentence.pdb
+D:\Development\School\PythagorasSentence\obj\Debug\PythagorasSentence.csprojResolveAssemblyReference.cache

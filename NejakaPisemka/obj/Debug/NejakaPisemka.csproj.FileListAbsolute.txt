@@ -1,0 +1,6 @@
+D:\Development\School\NejakaPisemka\bin\Debug\NejakaPisemka.exe.config
+D:\Development\School\NejakaPisemka\bin\Debug\NejakaPisemka.exe
+D:\Development\School\NejakaPisemka\bin\Debug\NejakaPisemka.pdb
+D:\Development\School\NejakaPisemka\obj\Debug\NejakaPisemka.csproj.CoreCompileInputs.cache
+D:\Development\School\NejakaPisemka\obj\Debug\NejakaPisemka.exe
+D:\Development\School\NejakaPisemka\obj\Debug\NejakaPisemka.pdb

@@ -1,0 +1,7 @@
+D:\Development\School\NahodnePole\bin\Debug\NahodnePole.exe.config
+D:\Development\School\NahodnePole\bin\Debug\NahodnePole.exe
+D:\Development\School\NahodnePole\bin\Debug\NahodnePole.pdb
+D:\Development\School\NahodnePole\obj\Debug\NahodnePole.csproj.CoreCompileInputs.cache
+D:\Development\School\NahodnePole\obj\Debug\NahodnePole.exe
+D:\Development\School\NahodnePole\obj\Debug\NahodnePole.pdb
+D:\Development\School\NahodnePole\obj\Debug\NahodnePole.csprojResolveAssemblyReference.cache

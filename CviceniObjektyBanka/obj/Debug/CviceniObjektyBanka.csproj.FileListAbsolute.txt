@@ -1,0 +1,6 @@
+D:\Projects\School\CviceniObjektyBanka\bin\Debug\CviceniObjektyBanka.exe
+D:\Projects\School\CviceniObjektyBanka\bin\Debug\CviceniObjektyBanka.pdb
+D:\Projects\School\CviceniObjektyBanka\obj\Debug\CviceniObjektyBanka.csprojAssemblyReference.cache
+D:\Projects\School\CviceniObjektyBanka\obj\Debug\CviceniObjektyBanka.csproj.CoreCompileInputs.cache
+D:\Projects\School\CviceniObjektyBanka\obj\Debug\CviceniObjektyBanka.exe
+D:\Projects\School\CviceniObjektyBanka\obj\Debug\CviceniObjektyBanka.pdb

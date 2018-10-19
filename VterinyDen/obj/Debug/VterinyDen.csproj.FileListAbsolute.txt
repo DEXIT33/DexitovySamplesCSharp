@@ -1,0 +1,6 @@
+D:\Development\School\VterinyDen\bin\Debug\VterinyDen.exe.config
+D:\Development\School\VterinyDen\bin\Debug\VterinyDen.exe
+D:\Development\School\VterinyDen\bin\Debug\VterinyDen.pdb
+D:\Development\School\VterinyDen\obj\Debug\VterinyDen.csproj.CoreCompileInputs.cache
+D:\Development\School\VterinyDen\obj\Debug\VterinyDen.exe
+D:\Development\School\VterinyDen\obj\Debug\VterinyDen.pdb

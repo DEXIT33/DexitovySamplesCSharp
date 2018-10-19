@@ -1,0 +1,6 @@
+D:\Development\School\RealneDatoveTypy\bin\Debug\RealneDatoveTypy.exe.config
+D:\Development\School\RealneDatoveTypy\bin\Debug\RealneDatoveTypy.exe
+D:\Development\School\RealneDatoveTypy\bin\Debug\RealneDatoveTypy.pdb
+D:\Development\School\RealneDatoveTypy\obj\Debug\RealneDatoveTypy.csproj.CoreCompileInputs.cache
+D:\Development\School\RealneDatoveTypy\obj\Debug\RealneDatoveTypy.exe
+D:\Development\School\RealneDatoveTypy\obj\Debug\RealneDatoveTypy.pdb

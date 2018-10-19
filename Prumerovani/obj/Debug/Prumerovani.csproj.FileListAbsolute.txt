@@ -1,0 +1,7 @@
+D:\Projects\School\Prumerovani\bin\Debug\Prumerovani.exe.config
+D:\Projects\School\Prumerovani\bin\Debug\Prumerovani.exe
+D:\Projects\School\Prumerovani\bin\Debug\Prumerovani.pdb
+D:\Projects\School\Prumerovani\obj\Debug\Prumerovani.csprojResolveAssemblyReference.cache
+D:\Projects\School\Prumerovani\obj\Debug\Prumerovani.csproj.CoreCompileInputs.cache
+D:\Projects\School\Prumerovani\obj\Debug\Prumerovani.exe
+D:\Projects\School\Prumerovani\obj\Debug\Prumerovani.pdb

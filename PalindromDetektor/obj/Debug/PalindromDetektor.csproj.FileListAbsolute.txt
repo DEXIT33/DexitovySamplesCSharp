@@ -1,0 +1,7 @@
+D:\Projects\School\PalindromDetektor\bin\Debug\PalindromDetektor.exe.config
+D:\Projects\School\PalindromDetektor\bin\Debug\PalindromDetektor.exe
+D:\Projects\School\PalindromDetektor\bin\Debug\PalindromDetektor.pdb
+D:\Projects\School\PalindromDetektor\obj\Debug\PalindromDetektor.csprojResolveAssemblyReference.cache
+D:\Projects\School\PalindromDetektor\obj\Debug\PalindromDetektor.csproj.CoreCompileInputs.cache
+D:\Projects\School\PalindromDetektor\obj\Debug\PalindromDetektor.exe
+D:\Projects\School\PalindromDetektor\obj\Debug\PalindromDetektor.pdb

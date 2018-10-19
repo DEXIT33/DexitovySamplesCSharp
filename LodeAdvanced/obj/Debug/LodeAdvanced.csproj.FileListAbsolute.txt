@@ -1,0 +1,7 @@
+D:\Projects\School\LodeAdvanced\bin\Debug\LodeAdvanced.exe.config
+D:\Projects\School\LodeAdvanced\bin\Debug\LodeAdvanced.exe
+D:\Projects\School\LodeAdvanced\bin\Debug\LodeAdvanced.pdb
+D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.csproj.CoreCompileInputs.cache
+D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.exe
+D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.pdb
+D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.csprojAssemblyReference.cache

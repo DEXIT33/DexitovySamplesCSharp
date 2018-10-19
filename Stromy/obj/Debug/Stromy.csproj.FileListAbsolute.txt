@@ -1,0 +1,7 @@
+D:\Projects\School\Stromy\bin\Debug\Stromy.exe.config
+D:\Projects\School\Stromy\bin\Debug\Stromy.exe
+D:\Projects\School\Stromy\bin\Debug\Stromy.pdb
+D:\Projects\School\Stromy\obj\Debug\Stromy.csprojResolveAssemblyReference.cache
+D:\Projects\School\Stromy\obj\Debug\Stromy.csproj.CoreCompileInputs.cache
+D:\Projects\School\Stromy\obj\Debug\Stromy.exe
+D:\Projects\School\Stromy\obj\Debug\Stromy.pdb
