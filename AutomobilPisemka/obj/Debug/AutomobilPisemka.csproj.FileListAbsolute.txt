@@ -1,0 +1,6 @@
+C:\Users\dexit\RiderProjects\AutomobilPisemka\AutomobilPisemka\bin\Debug\AutomobilPisemka.exe
+C:\Users\dexit\RiderProjects\AutomobilPisemka\AutomobilPisemka\bin\Debug\AutomobilPisemka.pdb
+C:\Users\dexit\RiderProjects\AutomobilPisemka\AutomobilPisemka\obj\Debug\AutomobilPisemka.csprojAssemblyReference.cache
+C:\Users\dexit\RiderProjects\AutomobilPisemka\AutomobilPisemka\obj\Debug\AutomobilPisemka.csproj.CoreCompileInputs.cache
+C:\Users\dexit\RiderProjects\AutomobilPisemka\AutomobilPisemka\obj\Debug\AutomobilPisemka.exe
+C:\Users\dexit\RiderProjects\AutomobilPisemka\AutomobilPisemka\obj\Debug\AutomobilPisemka.pdb

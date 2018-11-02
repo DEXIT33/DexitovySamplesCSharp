@@ -151,6 +151,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjektyZnovuXD", "ObjektyZn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CviceniObjektyBanka", "CviceniObjektyBanka\CviceniObjektyBanka.csproj", "{BBB82E5F-81DE-4265-98BB-F9CB0915ED12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobilPisemka", "AutomobilPisemka\AutomobilPisemka.csproj", "{FB7F9551-A29E-42AE-8403-8D8E26FDD06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pisemka", "Pisemka\Pisemka.csproj", "{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +457,14 @@ Global
 		{BBB82E5F-81DE-4265-98BB-F9CB0915ED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB82E5F-81DE-4265-98BB-F9CB0915ED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB82E5F-81DE-4265-98BB-F9CB0915ED12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7F9551-A29E-42AE-8403-8D8E26FDD06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7F9551-A29E-42AE-8403-8D8E26FDD06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7F9551-A29E-42AE-8403-8D8E26FDD06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7F9551-A29E-42AE-8403-8D8E26FDD06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\dexit\RiderProjects\Pisemka\Pisemka\bin\Debug\Pisemka.exe
+C:\Users\dexit\RiderProjects\Pisemka\Pisemka\bin\Debug\Pisemka.pdb
+C:\Users\dexit\RiderProjects\Pisemka\Pisemka\obj\Debug\Pisemka.csprojAssemblyReference.cache
+C:\Users\dexit\RiderProjects\Pisemka\Pisemka\obj\Debug\Pisemka.csproj.CoreCompileInputs.cache
+C:\Users\dexit\RiderProjects\Pisemka\Pisemka\obj\Debug\Pisemka.exe
+C:\Users\dexit\RiderProjects\Pisemka\Pisemka\obj\Debug\Pisemka.pdb
