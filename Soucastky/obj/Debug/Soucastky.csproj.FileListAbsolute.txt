@@ -12,3 +12,10 @@ D:\Projects\School\Soucastky\obj\Debug\Soucastky.csprojAssemblyReference.cache
 D:\Projects\School\Soucastky\obj\Debug\Soucastky.csproj.CoreCompileInputs.cache
 D:\Projects\School\Soucastky\obj\Debug\Soucastky.exe
 D:\Projects\School\Soucastky\obj\Debug\Soucastky.pdb
+D:\School\PR\DexitovySamplesCSharp\Soucastky\bin\Debug\Soucastky.exe.config
+D:\School\PR\DexitovySamplesCSharp\Soucastky\bin\Debug\Soucastky.exe
+D:\School\PR\DexitovySamplesCSharp\Soucastky\bin\Debug\Soucastky.pdb
+D:\School\PR\DexitovySamplesCSharp\Soucastky\obj\Debug\Soucastky.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\Soucastky\obj\Debug\Soucastky.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\Soucastky\obj\Debug\Soucastky.exe
+D:\School\PR\DexitovySamplesCSharp\Soucastky\obj\Debug\Soucastky.pdb

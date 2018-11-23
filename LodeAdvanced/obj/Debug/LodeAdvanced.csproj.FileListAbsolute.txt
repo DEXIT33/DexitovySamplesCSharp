@@ -5,3 +5,10 @@ D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.csproj.CoreCompileInputs.
 D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.exe
 D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.pdb
 D:\Projects\School\LodeAdvanced\obj\Debug\LodeAdvanced.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\bin\Debug\LodeAdvanced.exe.config
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\bin\Debug\LodeAdvanced.exe
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\bin\Debug\LodeAdvanced.pdb
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\obj\Debug\LodeAdvanced.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\obj\Debug\LodeAdvanced.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\obj\Debug\LodeAdvanced.exe
+D:\School\PR\DexitovySamplesCSharp\LodeAdvanced\obj\Debug\LodeAdvanced.pdb

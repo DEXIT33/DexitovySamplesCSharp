@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics.Eventing.Reader;
 
 namespace LodeAdvanced
 {
@@ -14,27 +12,62 @@ namespace LodeAdvanced
 
             Random rnd = new Random();
 
-            for (int i = 0; i < 10; i++)
+            Console.WriteLine("Zadej počet lodí!");
+            int pocetLodi = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < pocetLodi; i++)
             {
-                lode.Add(new Lod(rnd.Next(0, 10), rnd.Next(0, 10)));
+                int x = rnd.Next(1, 11);
+                int y = rnd.Next(1, 11);
+
+                while (lode.Exists(lod => lod.X == x && lod.Y == y))
+                {
+                    x = rnd.Next(1, 11);
+                    y = rnd.Next(1, 11);
+                }
+
+                lode.Add(new Lod(x, y));
             }
 
-            for (int i = 1; i < 100; i++)
+            foreach (var lod in lode)
             {
-                Console.WriteLine("Zadej kam míříš X");
-                int x = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Zadej kam míříš Y");
-                int y = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(lod);
+            }
 
-                for (int j = 0; j < lode.Count; j++)
+            while (lode.Count != 0)
+            {
+                Console.WriteLine("Vystřel - zadej souřadnice ve formátu x,y!");
+
+                string souradniceString = Console.ReadLine();
+
+                string[] souradnice = souradniceString.Split(',');
+
+                int x = Convert.ToInt32(souradnice[0]);
+                int y = Convert.ToInt32(souradnice[1]);
+
+                bool lodTrefena = false;
+                
+                foreach (var lod in lode)
                 {
-                    if (lode[j].X == x && lode[j].Y == y && !lode[j].Potopena)
+                    if (lod.X == x && lod.Y == y)
                     {
-                        lode[j].Potopena = true;
-                        Console.WriteLine("Trefa!!");
-                    }                      
+                        lodTrefena = true;
+                        lode.Remove(lod);
+                        break;
+                    }            
+                }
+
+                if (lodTrefena)
+                {
+                    Console.WriteLine("HAHA SUNDALS LOĎ");
+                }
+                else
+                {
+                    Console.WriteLine("MRDÁKU!");
                 }
             }
+            
+            Console.WriteLine("VYHRÁL JSI!");
         }
     }
 }

@@ -155,6 +155,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobilPisemka", "Automob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pisemka", "Pisemka\Pisemka.csproj", "{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListHehe", "ArrayListHehe\ArrayListHehe.csproj", "{9FF8C39D-1E40-46CC-8898-46A9D8E30786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListHehe", "ListHehe\ListHehe.csproj", "{BCC12B7E-EA9B-44F5-A248-ACBDBF322A2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +469,14 @@ Global
 		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0673C6-E427-4F2C-A38D-E2FFA151DFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF8C39D-1E40-46CC-8898-46A9D8E30786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF8C39D-1E40-46CC-8898-46A9D8E30786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF8C39D-1E40-46CC-8898-46A9D8E30786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF8C39D-1E40-46CC-8898-46A9D8E30786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC12B7E-EA9B-44F5-A248-ACBDBF322A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC12B7E-EA9B-44F5-A248-ACBDBF322A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC12B7E-EA9B-44F5-A248-ACBDBF322A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC12B7E-EA9B-44F5-A248-ACBDBF322A2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

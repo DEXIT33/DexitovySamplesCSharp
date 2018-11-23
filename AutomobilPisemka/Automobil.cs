@@ -20,16 +20,6 @@ namespace AutomobilPisemka
                     Console.WriteLine("Neplatná barva");
             }
         }
-        
-        /*
-        public double VelikostNadrze
-        {
-            get
-            {
-                return _velikostNadrze;
-            }
-        }
-        */
 
         public double VelikostNadrze => _velikostNadrze;
 

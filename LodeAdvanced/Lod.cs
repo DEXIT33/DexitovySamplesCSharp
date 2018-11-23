@@ -8,32 +8,37 @@ namespace LodeAdvanced
 {
     class Lod
     {
-        private int x;
-        private int y;
-        private bool potopena = false;
+        private int _x;
+        private int _y;
+        private bool _potopena = false;
 
         public bool Potopena
         {
-            get => potopena;
-            set => potopena = value;
+            get => _potopena;
+            set => _potopena = value;
         }
 
         public int X
         {
-            get => x;
-            set => x = value;
+            get => _x;
+            set => _x = value;
         }
 
         public int Y
         {
-            get => y;
-            set => y = value;
+            get => _y;
+            set => _y = value;
         }
 
         public Lod(int x, int y)
         {
-            this.x = x;
-            this.y = y;
+            _x = x;
+            _y = y;
+        }
+
+        public override string ToString()
+        {
+            return "Lod: " + _x + "," + _y;
         }
     }
 }
