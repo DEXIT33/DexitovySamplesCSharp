@@ -10,13 +10,6 @@ namespace LodeAdvanced
     {
         private int _x;
         private int _y;
-        private bool _potopena = false;
-
-        public bool Potopena
-        {
-            get => _potopena;
-            set => _potopena = value;
-        }
 
         public int X
         {
