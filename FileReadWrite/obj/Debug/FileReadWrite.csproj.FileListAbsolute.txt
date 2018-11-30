@@ -1,0 +1,6 @@
+D:\School\PR\DexitovySamplesCSharp\FileReadWrite\bin\Debug\FileReadWrite.exe
+D:\School\PR\DexitovySamplesCSharp\FileReadWrite\bin\Debug\FileReadWrite.pdb
+D:\School\PR\DexitovySamplesCSharp\FileReadWrite\obj\Debug\FileReadWrite.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\FileReadWrite\obj\Debug\FileReadWrite.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\FileReadWrite\obj\Debug\FileReadWrite.exe
+D:\School\PR\DexitovySamplesCSharp\FileReadWrite\obj\Debug\FileReadWrite.pdb
