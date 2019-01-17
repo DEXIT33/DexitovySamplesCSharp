@@ -1,0 +1,15 @@
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\bin\Debug\WPFGrid.exe.config
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\bin\Debug\WPFGrid.exe
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\bin\Debug\WPFGrid.pdb
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\MainWindow.g.cs
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\App.g.cs
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid_MarkupCompile.cache
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid_MarkupCompile.lref
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\MainWindow.baml
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.g.resources
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.Properties.Resources.resources
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.csproj.GenerateResource.cache
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.exe
+D:\School\PR\DexitovySamplesCSharp\WPFGrid\obj\Debug\WPFGrid.pdb

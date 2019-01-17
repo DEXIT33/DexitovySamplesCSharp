@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPFGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFGrid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Button Name="tlacitko1" Content="Tlacitko 1" Click="Tlacitko1_Click"></Button>
+        <Button Name="tlacitko2" Content="Tlacitko 2" Grid.Column="1" Click="Tlacitko2_Click"></Button>
+        <Button Name="tlacitko3" Content="Tlacitko 3" Grid.Column="2"></Button>
+        <Button Name="tlacitko4" Content="Tlacitko 4" Grid.Column="3"></Button>
+    </Grid>
+</Window>

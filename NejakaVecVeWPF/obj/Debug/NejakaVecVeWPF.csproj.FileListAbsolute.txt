@@ -1,0 +1,15 @@
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\bin\Debug\NejakaVecVeWPF.exe.config
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\bin\Debug\NejakaVecVeWPF.exe
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\bin\Debug\NejakaVecVeWPF.pdb
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\MainWindow.g.cs
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\App.g.cs
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF_MarkupCompile.cache
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF_MarkupCompile.lref
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\MainWindow.baml
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.g.resources
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.Properties.Resources.resources
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.csproj.GenerateResource.cache
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.exe
+D:\School\PR\DexitovySamplesCSharp\NejakaVecVeWPF\obj\Debug\NejakaVecVeWPF.pdb

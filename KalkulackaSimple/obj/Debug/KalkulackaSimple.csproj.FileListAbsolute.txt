@@ -1,0 +1,15 @@
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\bin\Debug\KalkulackaSimple.exe.config
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\bin\Debug\KalkulackaSimple.exe
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\bin\Debug\KalkulackaSimple.pdb
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\MainWindow.g.cs
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\App.g.cs
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple_MarkupCompile.cache
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple_MarkupCompile.lref
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\MainWindow.baml
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.g.resources
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.Properties.Resources.resources
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.csproj.GenerateResource.cache
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.exe
+D:\School\PR\DexitovySamplesCSharp\KalkulackaSimple\obj\Debug\KalkulackaSimple.pdb
