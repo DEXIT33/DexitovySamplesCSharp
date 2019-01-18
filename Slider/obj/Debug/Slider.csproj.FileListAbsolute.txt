@@ -1,0 +1,15 @@
+D:\School\PR\DexitovySamplesCSharp\Slider\bin\Debug\Slider.exe.config
+D:\School\PR\DexitovySamplesCSharp\Slider\bin\Debug\Slider.exe
+D:\School\PR\DexitovySamplesCSharp\Slider\bin\Debug\Slider.pdb
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\MainWindow.g.cs
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\App.g.cs
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider_MarkupCompile.cache
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider_MarkupCompile.lref
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\MainWindow.baml
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.g.resources
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.Properties.Resources.resources
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.exe
+D:\School\PR\DexitovySamplesCSharp\Slider\obj\Debug\Slider.pdb

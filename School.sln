@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulackaSimple", "Kalkula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NejakaVecVeWPF", "NejakaVecVeWPF\NejakaVecVeWPF.csproj", "{280EB639-3721-4204-812E-BE129A8174CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slider", "Slider\Slider.csproj", "{777A504C-BFB2-4E80-BBEB-10FC419CD393}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{280EB639-3721-4204-812E-BE129A8174CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{280EB639-3721-4204-812E-BE129A8174CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{280EB639-3721-4204-812E-BE129A8174CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777A504C-BFB2-4E80-BBEB-10FC419CD393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777A504C-BFB2-4E80-BBEB-10FC419CD393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777A504C-BFB2-4E80-BBEB-10FC419CD393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777A504C-BFB2-4E80-BBEB-10FC419CD393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
